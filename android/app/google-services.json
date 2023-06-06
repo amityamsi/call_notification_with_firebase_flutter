@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758884197570",
+    "project_id": "incomingcall-89eda",
+    "storage_bucket": "incomingcall-89eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758884197570:android:cc8ed8bb34230b3b35075b",
+        "android_client_info": {
+          "package_name": "com.example.incoming_call_notification_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758884197570-u8s319vfcbsmdn419qk51g4f1lsvheb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTMzJISH5qp9IsiK2BINW_4w5QWXVl990"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758884197570-u8s319vfcbsmdn419qk51g4f1lsvheb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
